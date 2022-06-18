@@ -1,4 +1,4 @@
-package create
+package singleton
 
 import (
 	"testing"
